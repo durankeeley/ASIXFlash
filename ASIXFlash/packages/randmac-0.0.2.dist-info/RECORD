@@ -1,0 +1,12 @@
+randmac-0.0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+randmac-0.0.2.dist-info/LICENSE,sha256=Y5RcIacZHKrRBxwQ681pfm9ggHvJ6HMW1VfHeFsOHgQ,1071
+randmac-0.0.2.dist-info/METADATA,sha256=P0aLkjoYDK7gar52O67bfAc7Njxk2WCweVva_ZPkwF8,2229
+randmac-0.0.2.dist-info/RECORD,,
+randmac-0.0.2.dist-info/WHEEL,sha256=HX-v9-noUkyUoxyZ1PMSuS7auUxDAR4VBdoYLqD0xws,110
+randmac-0.0.2.dist-info/top_level.txt,sha256=stJVDF67T7Cz7pZ3Yv4qj6I_ro9ZR_mHfT_12VaDX0Y,8
+randmac/__init__.py,sha256=rFNDif79QDppZcVbu8G7Vyt8qNpo9ix4q3G8pRaIoS4,36
+randmac/__pycache__/__init__.cpython-38.pyc,,
+randmac/__pycache__/__version__.cpython-38.pyc,,
+randmac/__pycache__/randmac.cpython-38.pyc,,
+randmac/__version__.py,sha256=UVIIesbIPtRBidgzJXxnIA-tn3p7or0y-wwqY0ZBJ_o,346
+randmac/randmac.py,sha256=7w8UrH0SYsugCV8Hdrse2_W_OZlqqaOzUJw4lb3aI5c,6737

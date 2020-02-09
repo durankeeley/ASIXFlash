@@ -1,1 +1,11 @@
-pyusb==1.0.2
+python-3.8.1
+	-pyusb
+	-easygui
+	-randmac
+
+[Windows]zadig-2.4
+
+Install LibUSB
+	-libusb-win32-devel-filter-1.2.6.0
+
+ASIX AX88179
